@@ -11,5 +11,5 @@
 /src/media/MarketWatch.csv
 /src/products
 /src/templates/products
-/.gitignore
+
 /pyvenv.cfg
