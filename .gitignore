@@ -10,5 +10,6 @@
 /src/templates/products
 /src/Dashboard/__pycache__
 /src/pages/__pycache__
+/src/pages/migrations
 /.gitignore
 /pyvenv.cfg
