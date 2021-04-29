@@ -4,8 +4,8 @@
 /include
 /lib
 
-/src/Dashboard/__pycache__
-/src/pages/__pycache__
+/src/Dashboard/__pycache__/
+/src/pages/__pycache__/
 
 /src/db.sqlite3
 /src/media/MarketWatch.csv
